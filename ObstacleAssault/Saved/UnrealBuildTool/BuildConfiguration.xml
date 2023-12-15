@@ -1,3 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Configuration xmlns="https://www.unrealengine.com/BuildConfiguration">
+    <GitSourceFileWorkingSet> 
+        <Provider>None</Provider> 
+        <RepositoryPath></RepositoryPath> 
+        <GitPath></GitPath> 
+    </GitSourceFileWorkingSet>
 </Configuration>

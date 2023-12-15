@@ -7,7 +7,15 @@
 			"files": [
 				"C:/Users/ryan2/OneDrive/Documents/GitHub/Unreal5Course/Obstacle-Assault/ObstacleAssault/Content/Main.umap",
 				"C:/Users/ryan2/OneDrive/Documents/GitHub/Unreal5Course/Obstacle-Assault/ObstacleAssault/Content/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/ryan2/OneDrive/Documents/GitHub/Unreal5Course/Obstacle-Assault/ObstacleAssault/Content/SCK_Casual01/Blueprints/ThirdPersonCharacter.uasset"
+				"C:/Users/ryan2/OneDrive/Documents/GitHub/Unreal5Course/Obstacle-Assault/ObstacleAssault/Content/SCK_Casual01/Blueprints/ThirdPersonCharacter.uasset",
+				"C:/Users/ryan2/OneDrive/Documents/GitHub/Unreal5Course/Obstacle-Assault/ObstacleAssault/Content/BP_MovingPlatform.uasset",
+				"C:/Users/ryan2/OneDrive/Documents/GitHub/Unreal5Course/Obstacle-Assault/ObstacleAssault/Content/BP_PushingCube.uasset",
+				"C:/Users/ryan2/OneDrive/Documents/GitHub/Unreal5Course/Obstacle-Assault/ObstacleAssault/Content/BP_ObstacleAssaultGameMode.uasset",
+				"C:/Users/ryan2/OneDrive/Documents/GitHub/Unreal5Course/Obstacle-Assault/ObstacleAssault/Content/BP_RotatingPlatform.uasset",
+				"C:/Users/ryan2/OneDrive/Documents/GitHub/Unreal5Course/Obstacle-Assault/ObstacleAssault/Content/BP_RollingPlatform.uasset",
+				"C:/Users/ryan2/OneDrive/Documents/GitHub/Unreal5Course/Obstacle-Assault/ObstacleAssault/Content/BP_Spinner.uasset",
+				"C:/Users/ryan2/OneDrive/Documents/GitHub/Unreal5Course/Obstacle-Assault/ObstacleAssault/Content/BP_StandOnPlatform.uasset",
+				"C:/Users/ryan2/OneDrive/Documents/GitHub/Unreal5Course/Obstacle-Assault/ObstacleAssault/Content/SCK_Casual01/Models/Premade_Characters/MESH_PC_01.uasset"
 			]
 		}
 	]
